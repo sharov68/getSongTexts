@@ -5,3 +5,4 @@ __history/
 __recovery/
 Android64/*
 !Android64/Debug/getSongTexts/bin/getSongTexts.apk
+Win64/*
